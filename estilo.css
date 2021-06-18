@@ -1,0 +1,33 @@
+body {
+    background-color: #008000;
+    font-family: cursive;
+    text-align: justify;
+}
+
+main{
+    margin: 2cm
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
